@@ -7,3 +7,11 @@
 - Lokal HTTP-förhandsvisning svarade med 200.
 - Ingen visuell webbläsartestning genomförd. Mobilanpassningen är implementerad men behöver granskas i en riktig webbläsare.
 - Den valfria WebMCP-funktionen för återställning har inte kontraktstestats i en WebMCP-kompatibel miljö, eftersom en sådan testmiljö inte är tillgänglig här.
+
+## Uppdatering: originalövningar och molekyler i 3D
+
+- Tio moduler från originalpresentationen anpassade till egna ämnessidor.
+- Alla uppgiftsvarianter, återställning och byte till självständig stödnivå körda i LinkeDOM.
+- Svarskontroll, rotation och nettodipol testade för alla sex molekyler.
+- Balanseringsuppgifternas facit kontrollerade med atomräkning.
+- Ingen visuell webbläsargranskning genomförd.

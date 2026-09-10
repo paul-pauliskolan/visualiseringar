@@ -188,3 +188,8 @@ Kemi ingår som ett eget ämne. Den första versionen prioriterar balansering av
 Gy25-koppling: Kemi nivå 1, KEMI1000X, behandlar materiens oförstörbarhet, reaktionsformler, substansmängdförhållanden och begränsande reaktanter. Nivå 2 behandlar jämvikter. Källa: [Skolverkets ämnesplan i kemi](https://syllabuswebb.skolverket.se/subject/KEMI/1/pdf), s. 2–3.
 
 Första fungerande utkastet innehåller fem ämnessidor och tio visualiseringar, två per ämne. Varje beskrivande box är klickbar i sin helhet och leder till visualiseringens egen sida. Detta är en första del av den större innehållsplanen ovan.
+
+
+## Reviderad riktning: övningar från originalet
+
+Webbplatsen återanvänder originalpresentationens tio övningsmoduler på egna sidor: egna svar, flera varianter, tre stödnivåer, kontroll med återkoppling och återkallningsfråga. Kemi innehåller roterbara schematiska 3D-modeller av CO₂, H₂O, NH₃, CH₄, BF₃ och SF₆. Eleven bedömer geometri, vinkel och polaritet innan dipolerna visas. Modellerna använder originalets tredimensionella koordinater; atomstorlekar och bindningslängder är inte skalenliga. Biblioteket omfattar nu 16 sidor med övningar och undersökningar.
