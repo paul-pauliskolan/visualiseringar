@@ -47,7 +47,9 @@
 .learning-deck .intro h2 { font-size:clamp(2.6rem,5vw,5rem); max-width:18ch; }
 .learning-deck .retrieval { max-width:900px; }
 .learning-deck .mini-note { font-size:.85rem!important; color:var(--slide-muted); }
-.learning-deck .molecule-view { touch-action:none; cursor:grab; }
+.learning-deck .molecule-view { touch-action:none; cursor:grab; perspective:900px; }
+.learning-deck .molecule-view svg { background:radial-gradient(circle at 50% 44%,#fff 0,#eef5f1 58%,#dce9e3 100%); border-radius:8px; }
+.learning-deck .molecule-view .depth-label { font-size:11px; font-weight:750; letter-spacing:1.5px; fill:#526b64; }
 .learning-deck [hidden] { display:none!important; }
 .learning-deck .source-links { font-size:.85rem; margin-top:1rem; }
 .learning-deck a { color:var(--slide-accent); }
