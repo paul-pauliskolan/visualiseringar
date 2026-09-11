@@ -15,3 +15,12 @@
 - Svarskontroll, rotation och nettodipol testade för alla sex molekyler.
 - Balanseringsuppgifternas facit kontrollerade med atomräkning.
 - Ingen visuell webbläsargranskning genomförd.
+
+## Utbyggnad med kunskapstest och historia
+
+- 20 nya eller ombyggda kunskapsövningar kontrollerade i en DOM-testmiljö.
+- Varje kontrollerad övning kräver ett valt svar innan kontrollknappen aktiveras.
+- Återkoppling och facit är dolda tills eleven kontrollerar sitt svar.
+- Samtliga nya övningar har ämnesnivå, nivåkod och koppling till centralt innehåll.
+- Historia visar fyra övningsrutor och fungerar från projektets huvudsakliga `index.html`.
+- Lokala HTML-resurser och Live Server-startsidan har kontrollerats.

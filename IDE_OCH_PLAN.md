@@ -189,6 +189,14 @@ Gy25-koppling: Kemi nivå 1, KEMI1000X, behandlar materiens oförstörbarhet, re
 
 Första fungerande utkastet innehåller fem ämnessidor och tio visualiseringar, två per ämne. Varje beskrivande box är klickbar i sin helhet och leder till visualiseringens egen sida. Detta är en första del av den större innehållsplanen ovan.
 
+## Utbyggnad: kunskapsövningar och historia
+
+Webbplatsen omfattar nu sex ämnen. Passiva moment har ersatts eller byggts om så att eleven måste lämna ett svar innan facit och förklaring visas. Varje ny kunskapsövning innehåller tre frågor, svarskontroll, poäng och återkoppling.
+
+Historia har fyra första övningar för nivå 1a1 och 1b: kronologi och epokindelning, orsak–konsekvens och kontinuitet–förändring, granskning av historiska källor samt historiebruk. Kopplingarna följer [Skolverkets ämnesplan för historia, Gy25](https://syllabuswebb.skolverket.se/subject/HIST/1/pdf), särskilt centralt innehåll på s. 2–4.
+
+Alla ämnen har utökats med två nya kunskapsövningar. Varje övningsruta anger ämnesnivå, nivåkod, pedagogiskt syfte och en sammanfattad koppling till centralt innehåll.
+
 
 ## Reviderad riktning: övningar från originalet
 

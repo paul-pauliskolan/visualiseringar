@@ -1,0 +1,11 @@
+.knowledge-progress{display:flex;justify-content:space-between;gap:20px;margin-bottom:24px;color:var(--muted);font-size:14px;font-variant-numeric:tabular-nums}
+.question-context{margin:0 0 22px;padding:18px 22px;border-left:3px solid var(--green);background:#edf4f0;font:17px/1.6 Georgia,serif}
+.knowledge-options{display:grid;gap:10px;margin:20px 0}
+.knowledge-options button{text-align:left;padding:14px 16px}
+.knowledge-options button[aria-checked="true"]{border-color:var(--green);background:#e5f1eb}
+.knowledge-options .answer-correct{border-color:#287b53;background:#e6f4eb;color:#174c31}
+.knowledge-options .answer-wrong{border-color:#b66331;background:#fff0e6;color:#7a3518}
+.knowledge-visual{margin-top:20px;padding:22px;border-radius:8px;background:#edf4f0;text-align:center;font:22px/1.5 Georgia,serif;color:#165f53}
+.knowledge-result{text-align:center;padding:35px 20px}
+.knowledge-result h2{font-size:36px;margin:8px 0}
+.knowledge-result button{margin-top:15px}
